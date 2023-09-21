@@ -1,0 +1,27 @@
+.child{
+    background-color: White;
+position:absolute;
+border:10px solid black;
+top:50%;
+left:50%;
+transform:translate(-50%,-50%);
+}
+.child1{
+    background-color: black;
+position:absolute;
+border:10px solid black;
+top:90%;
+left:50%;
+transform:translate(-50%,-50%);
+}
+.child2{
+font-size: 24px;
+color: white;
+font-family: 'Courier New', Courier, monospace;
+position:absolute;
+top:7%;
+left:4%;
+transform:translate(-50%,-50%);
+}
+.child1 {border-radius: 20px;}
+.child {border-radius: 20px;}
